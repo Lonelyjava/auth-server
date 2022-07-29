@@ -1,5 +1,4 @@
-package com.lib.mngt.epri;
-//package com.tkm.epri;
+package com.lib.mngt.auth;
 //
 //import org.junit.jupiter.api.Test;
 //import org.springframework.boot.test.context.SpringBootTest;
